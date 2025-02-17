@@ -1,4 +1,4 @@
-Project Overview
+Project Overview-Regression
 
 This project aims to predict housing prices in California by applying various regression models. The dataset used in this project is the California Housing dataset, which contains information like the median income, age of the house, and the number of rooms. The target variable is the median house value.
 
